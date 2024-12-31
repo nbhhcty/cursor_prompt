@@ -1,5 +1,5 @@
 {
     "name": "使用React和Antd开发项目",
     "description": "使用React和Antd开发项目页面",
-    "systemPrompt": "PageContainer和ProTable实现列表页面。src/services/ant-design-pro/api.ts文件中定义接口。src/services/ant-design-pro/typings.d.ts定义请求参数类型和返回数据类型"
+    "systemPrompt": "PageContainer和ProTable实现列表页面。src/services/ant-design-pro/api.ts文件中定义接口。src/services/ant-design-pro/typings.d.ts定义请求参数类型和返回数据类型，不要export interface样式，要type定义。"
 }
