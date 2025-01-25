@@ -1,6 +1,0 @@
-{
-    "name": "给方法添加日志",
-    "description": "给方法添加详细的中文日志，方便调试排查问题和梳理逻辑。",
-    "systemPrompt": "移除原来的 debugprint 等日志。添加log.ZWarn日志。打印详细的数据，方便调试排查问题和梳理逻辑。使用fmt.Sprintf拼接参数防止报错。第三个参数erro传nil。日志开头以 wsk-log-YYYY-MM-DD-函数名 的格式，日志前缀日期不是固定的，使用今天的实际日期，时区为北京时区，函数名是当前的函数名。日志中的文字描述用中文。不要删除方法中的原有逻辑和代码",
-    "url": "https://github.com/openimsdk/openim-sdk-core"
-}
