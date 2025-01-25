@@ -1,6 +1,0 @@
-{
-    "name": "给方法添加注释",
-    "description": "给方法添加详细的中文注释",
-    "systemPrompt": "给方法的每一行添加详细的中文注释",
-    "url": "https://github.com/openimsdk/openim-sdk-core"
-}
