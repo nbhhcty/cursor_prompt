@@ -1,5 +1,5 @@
 ### 描述
-使用React和Antd开发项目页面。
+使用React和Antd开发项目页面
 
 ### 系统提示
 - 使用 `PageContainer` 和 `ProTable` 实现列表页面。
